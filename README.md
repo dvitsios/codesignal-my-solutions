@@ -1,1 +1,1 @@
-## CodeFights - little problems and solutions in Python
+## CodeFights - problems and solutions in Python
