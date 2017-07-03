@@ -4,5 +4,14 @@ Your task is to reverse the strings contained in each pair of matching parenthes
 
 **Example**
 
-For string `s = "a(bc)de"`, the output should be
-`reverseParentheses(s) = "acbde"`.
+* For string `s = "a(bc)de"`, the output should be
+    `reverseParentheses(s) = "acbde"`.
+
+* For string `s = "a(bcdefghijkl(mno)p)q"`, the output should be
+    `reverseParentheses(s) = "apmnolkjihgfedcbq"`.
+
+* For string `s = "co(de(fight)s)"`, the output should be
+    `reverseParentheses(s) = "cosfighted"`.
+
+* For string `s = "Code(Cha(lle)nge)"`, the output should be
+    `reverseParentheses(s) = "CodeegnlleahC"`.
