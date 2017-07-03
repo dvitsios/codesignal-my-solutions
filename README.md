@@ -1,1 +1,3 @@
-## CodeFights - problems and solutions in Python
+## CodeFights
+
+Some problems with my solutions in Python.
