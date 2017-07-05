@@ -13,4 +13,3 @@ import re
 import random
 import functools
 ```
-No extra library is allowed to be imported.
