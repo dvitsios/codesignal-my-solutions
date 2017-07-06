@@ -2,7 +2,7 @@
 
 [https://codefights.com](https://codefights.com)
 
-Some problems with my solutions in Python.
+Problems from Arcade, Challenges and battles against Bots with my solutions in Python.
 
 
 For all problems, the following libraries are considered to be automatically imported:
