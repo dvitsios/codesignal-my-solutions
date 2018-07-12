@@ -1,6 +1,8 @@
-## CodeFights
+## CodeSignal
 
-[https://codefights.com](https://codefights.com)
+(former CodeFights)
+
+[https://app.codesignal.com/](https://app.codesignal.com/)
 
 Problems from _Arcade_, _Challenges_ and __battles against Bots__ with my solutions in Python.
 
