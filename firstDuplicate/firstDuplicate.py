@@ -1,15 +1,15 @@
 def firstDuplicate(a):
 
-    dict = {}
+    d = {}
     found = 0
 
     for i in range(len(a)):
-        if a[i] in dict:
-            dict[a[i]] += 1
+        if a[i] in d:
+            d[a[i]] += 1
         else:
-            dict[a[i]] = 1
+            d[a[i]] = 1
 
-        if(dict[a[i]] == 2):
+        if(d[a[i]] == 2):
             return a[i]
 
     if not found:
